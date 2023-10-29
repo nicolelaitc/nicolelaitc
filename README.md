@@ -1,4 +1,4 @@
- - 👋 Hi, I’m @yuiasora1024. 
+ - 👋 Hi, I’m Nicole. 
  - 💻 I am a junior back-end developer that has 1+ years of experience in Golang, Python and SQL. 
  - 🌿 I hope to be a more advanced developer and create things that benefit people! 
  - 👀 My recent favourites: 
